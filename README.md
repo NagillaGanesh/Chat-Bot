@@ -1,4 +1,4 @@
-# Chat-bot
+# Chat-Bot
 # Simple Chatbot
 
 This is a simple chatbot script implemented in Python. The chatbot provides predefined responses based on user input patterns.
